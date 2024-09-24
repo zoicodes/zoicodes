@@ -2,7 +2,7 @@
 - 👀 I’m interested in learning more about AI and computer vision. 
 - 🌱 I’m currently enrolled in a master's degree programme about AI.
 - 💞️ I’m looking to collaborate on open source projects.
-- 📫 How to reach me -> reddit: https://www.reddit.com/user/zoicodes/  , instagram: @zoicodes
+- 📫 How to reach me -> reddit: https://www.reddit.com/user/zoicodes/  , instagram: @zoicode
 - 😄 Pronouns: she/her
 - ⚡ This is my personal Github page.
 
